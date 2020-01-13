@@ -29,3 +29,5 @@ After comparing above and more than 100 resilience values, I observed that given
 
 So far that's it. My goal is to predict next resilience values based on previous input.
 Will update post new findings.
+
+P.S: it should be noted that for higher values (> 20,000), code could get slower due to lack of computational resources.
